@@ -42,5 +42,57 @@
         ]
       }
     }
-  ]
+  ],
+  "plugins": {
+    "data": [
+      {
+        "id": "1",
+        "name": "Plugin 1",
+        "slug": "plugin-1",
+        "mosaic_id": "plugin-1"
+      },
+      {
+        "id": "2",
+        "name": "Plugin 2",
+        "slug": "plugin-2",
+        "mosaic_id": "plugin-2"
+      },
+      {
+        "id": "3",
+        "name": "Plugin 3",
+        "slug": "plugin-3",
+        "mosaic_id": "plugin-3"
+      },
+      {
+        "id": "4",
+        "name": "Plugin 4",
+        "slug": "plugin-4",
+        "mosaic_id": "plugin-4"
+      },
+      {
+        "id": "5",
+        "name": "Plugin 5",
+        "slug": "plugin-5",
+        "mosaic_id": "plugin-5"
+      },
+      {
+        "id": "6",
+        "name": "Plugin 6",
+        "slug": "plugin-6",
+        "mosaic_id": "plugin-6"
+      },
+      {
+        "id": "7",
+        "name": "Plugin 7",
+        "slug": "plugin-7",
+        "mosaic_id": "plugin-7"
+      },
+      {
+        "id": "8",
+        "name": "Plugin 8",
+        "slug": "plugin-8",
+        "mosaic_id": "plugin-8"
+      }
+    ]
+  }
 }
