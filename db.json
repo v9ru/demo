@@ -100,16 +100,12 @@
       "id": "mosaic-provider-hawkeye",
       "keys": {
         "showTeamGoals": {
-          "type": "boolean",
+          "type": "string",
           "description": "Show team goals"
         },
         "dateFormat": {
-          "type": "enum",
+          "type": "string",
           "description": "Date format",
-          "options": [
-            "yyyy-MM-dd",
-            "dd-MM-yyyy"
-          ]
         }
       }
     }
