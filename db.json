@@ -94,5 +94,16 @@
         "mosaic_id": "plugin-8"
       }
     ]
-  }
+  },
+  "plugin_schema": [
+    {
+      "id": "mosaic-provider-hawleye",
+      "keys": {
+        "showTeamGoals": {
+          "type": "boolean",
+          "description": "show team goals"
+        }
+      }
+    }
+  ]
 }
