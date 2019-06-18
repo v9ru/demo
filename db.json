@@ -101,7 +101,15 @@
       "keys": {
         "showTeamGoals": {
           "type": "boolean",
-          "description": "show team goals"
+          "description": "Show team goals"
+        },
+        "dateFormat": {
+          "type": "enum",
+          "description": "Date format",
+          "options": [
+            "yyyy-MM-dd",
+            "dd-MM-yyyy"
+          ]
         }
       }
     }
