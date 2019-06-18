@@ -49,7 +49,7 @@
         "id": "1",
         "name": "Plugin 1",
         "slug": "plugin-1",
-        "mosaic_id": "plugin-1"
+        "mosaic_id": "mosaic-provider-hawkeye"
       },
       {
         "id": "2",
